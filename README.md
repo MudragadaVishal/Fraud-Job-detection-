@@ -3,6 +3,9 @@
 
 A machine learning project to detect fraudulent job postings. This system includes a training script to build the model and an interactive Streamlit dashboard for real-time predictions and visual explanations.
 
+# Go throuh the following link for explanation
+https://drive.google.com/file/d/1PmorFZqY-Jd6dil50rSQEU8kDZSFPJXe/view?usp=drivesdk
+
 ---
 
 ## 📌 Project Overview
